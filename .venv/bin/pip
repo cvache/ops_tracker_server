@@ -1,4 +1,6 @@
-#!/home/carson/Documents/Projects/ops/server/.venv/bin/python3
+#!/bin/sh
+'''exec' "/Users/carsonvache/Documents/Ops Tracker/ops_tracker_server/.venv/bin/python" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
